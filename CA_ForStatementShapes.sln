@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingActivity_ShapesWithForStatements", "CodingActivity_ShapesWithForStatements\CodingActivity_ShapesWithForStatements.csproj", "{21A7F1ED-73BC-4455-97A2-05C54662F495}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_ForStatementShapes", "CA_ForStatementShapes\CA_ForStatementShapes.csproj", "{21A7F1ED-73BC-4455-97A2-05C54662F495}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -7,8 +7,8 @@
     <ProjectGuid>{21A7F1ED-73BC-4455-97A2-05C54662F495}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CodingActivity_ShapesWithForStatements</RootNamespace>
-    <AssemblyName>CodingActivity_ShapesWithForStatements</AssemblyName>
+    <RootNamespace>CA_ForStatementShapes</RootNamespace>
+    <AssemblyName>CA_ForStatementShapes</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
